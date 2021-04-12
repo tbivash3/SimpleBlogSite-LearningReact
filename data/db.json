@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Creating a Web Page",
+      "body": "This page was typed by hand. Anybody can do this, you don't need any special",
+      "author": "Myself",
+      "id": 1
+    },
+    {
+      "title": "My new websete",
+      "body": "My new website in awesome",
+      "author": "Myself2",
+      "id": 2
+    },
+    {
+      "title": "My new websete",
+      "body": "My new website in awesome",
+      "author": "Myself3",
+      "id": 3
+    }
+  ]
+}
